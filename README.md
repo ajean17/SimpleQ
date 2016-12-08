@@ -11,10 +11,8 @@
 **Team members**: *below*
 
 1. __Demetri__ - *User Interface Lead & Liasion* 
-2. __Alvin__ - *Project Manager & Data Modeler*
-3. __Stuart__ - *Testing Lead & Programming Assist*  
-4. __Palmer__ - *Documentation & Data Modler* 
-5. __Austin__ - *Lead Developer & UI Assist*
+2. __Alvin__ - *Project Manager & Lead Developer* 
+3. __Palmer__ - *Documentation & Data Modeler* 
 
 
 SimpleQ is a web app used for teachers to generate study tools for the use of their students. As a admin user the teacher can
