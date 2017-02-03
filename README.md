@@ -8,6 +8,8 @@
 
 **Access to our product**: [SimpleQ](http://alvinuity.altervista.org/SimpleQ/Home.php)
 
+**Link to our Fall 2016 Class' CREATE Presentations**[CREATE](https://soft-eng-practicum.github.io/itec3870_fa16/)
+
 **Team members**: *below*
 
 1. __Demetri__ - *User Interface Lead & Liasion* 
